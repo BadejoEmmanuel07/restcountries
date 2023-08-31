@@ -1,0 +1,12 @@
+automatic search using useEffect
+adding loading state ;
+adding try and catch 
+adding and working with links in react-router dom 
+working with outlet in react-router-dom 
+Host app to vercel 
+
+
+
+classwork work with the dummyjson api , fetch all products, find or search  a single product, get all categories, get all users , search or find users
+
+assigmnent -> handle the error loading state
