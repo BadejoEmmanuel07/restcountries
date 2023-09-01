@@ -65,4 +65,4 @@ const CountryName = () => {
 }
 
 
-export default CountryName
+export default CountryName;

@@ -3,7 +3,7 @@ import { createBrowserRouter, Route, RouterProvider } from "react-router-dom";
 import FetchData from "./views/FetchData";
 import NavLinks from "./views/NavLinks";
 import CountryName from "./views/CountryName";
-import Currency from "./views/Currency";
+ import Currency from "./views/Currency";
 import Navs from "./Dashboard/Navs";
 import User from "./Dashboard/User";
 import Header from "./Dashboard/Header";
